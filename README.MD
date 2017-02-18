@@ -5,3 +5,4 @@ git has a mutable index called stage.
 git tracks change of file.
 stupid
 create a new branch.
+learn diff ours
